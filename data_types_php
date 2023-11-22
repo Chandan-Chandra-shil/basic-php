@@ -1,0 +1,65 @@
+<?php
+
+/*
+*PHP supports the following data types:
+
+1. string
+2. Integer
+3. float
+4. boolean
+5. array
+6. object 
+7. null
+8. Resource (advanced topic)
+
+*/
+
+// STRING
+ 
+// $myFullNameIs= "Chandan Chandra Shil";
+
+// echo "$myFullNameIs";
+// echo PHP_EOL;
+// var_dump($myFullNameIs)
+
+// INTEGER
+
+ /*   $my_age=-20;
+   $my_age=50;
+
+   var_dump($my_age) */
+
+   //FLOAT
+
+  //  $age =20.1255;
+  //  var_dump($age)
+
+  //BOOLEAN
+
+  // $thuthyAndFalsyValue = true;
+  // $thuthyAndFalsyValue = false;
+  
+
+  // var_dump($thuthyAndFalsyValue)
+
+
+  // ARRAY
+
+  // $brothers= ["chandan", "nandan", "papon" , 50 , false , 20.1245, ];
+  // var_dump($brothers)
+  
+  //OBJECT
+
+  /* class Course{
+
+  }
+
+  $courses= new Course();
+
+  var_dump($courses) */
+
+  // NULL
+    $example= null;
+    var_dump($example)  
+ 
+?>
